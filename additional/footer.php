@@ -17,8 +17,8 @@
    <div class="container-default w-container">
       <div class="top-content footer-top-content">
          <div data-w-id="6674e4aa-e206-72a4-d267-e1bdc84b6bd7" class="split-content footer-top-content-left" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; opacity: 1;">
-			 <a href="https://black-host.eu/" class="footer-logo-container w-inline-block">
-			 <img src="https://black-host.eu/cdn/logos/logo-text-primary.png" alt="" class="footer-logo" width="200">
+			 <a href="/" class="footer-logo-container w-inline-block">
+			 <img src="/assets/cdn/logos/logo-text-primary.png" alt="" class="footer-logo" width="200">
 			 </a>
 		  </div>
         <!--<div data-w-id="367ead7c-365b-f56a-8338-9b5672289114" class="_2-buttons footer-2-buttons" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; opacity: 1;">
@@ -187,13 +187,13 @@
 		  
          <div data-w-id="cc586993-8cb8-3a34-a0f4-0f21f2292ad8" class="small-print-right" style="transform: translate3d(0px, 20px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; opacity: 0;">
 			 
-			 <a href="<?= $url ?>impressum.php">Impressum</a> 
+			 <a href="/impressum">Impressum</a>
 			 | 
-			 <a href="<?= $url ?>datenschutz.php">Datenschutz</a>
+			 <a href="/datenschutz">Datenschutz</a>
 			 | 
-			 <a href="<?= $url ?>agb.php">AGB</a>
+			 <a href="/agb">AGB</a>
 			 | 
-			 <a href="<?= $url ?>elterninfo.php">Elterninfo</a>
+			 <a href="/elterninfo">Elterninfo</a>
 		  
 		  </div>
 		  
@@ -213,7 +213,7 @@
 
 
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5fbd60e9c0e04c6e2ff0c2e0" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-<script src="<?= $url ?>js/blackhost.theme-main.js" type="text/javascript"></script>
+<script src="/assets/js/blackhost.theme-main.js" type="text/javascript"></script>
 <!--<<script src="https://assets.website-files.com/5fbd60e9c0e04c6e2ff0c2e0/js/webflow.add728f15.js" type="text/javascript"></script>-->
 </body>
 
